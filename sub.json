@@ -1,0 +1,6 @@
+{
+  "prompt": "A dramatic landscape at dusk. Multiple small streams on separate hillside terraces each visibly flowing leftward toward a central basin. But the single large river emerging from that basin flows unmistakably rightward into the distance. The contradiction is spatial and immediate — local motion and global motion are opposite. Photorealistic, cinematic wide shot, golden hour light, no text, no labels, no diagrams, no arrows. Negative prompt: text, labels, arrows, diagrams, charts, equations, annotations, numbers",
+  "model": "Ideogram 2",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Multiple streams each flow leftward into a basin, yet the river emerging flows rightward — local and global direction contradict each other, mirroring how subgroup trends reverse upon aggregation."
+}
